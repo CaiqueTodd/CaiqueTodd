@@ -2,12 +2,10 @@
 <p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caique Santos <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaiqueTodd&color=yellow" alt="Profile views" /> </p></h1>
 
 
-<br><br>
-
 - 🎓 Cursando 3° Semestre de Ciência da Computação
 - 🎯 Atuando como Front-end Developer;
 
-<br>
+
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
@@ -19,7 +17,7 @@
 <img align="center" alt="Caique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Caique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
