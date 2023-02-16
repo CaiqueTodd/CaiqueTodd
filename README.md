@@ -1,5 +1,5 @@
 
-<p><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caique Santos <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaiqueTodd&color=yellow" alt="Profile views" /> </p></h1>
+<p><h1 align="left">Hi, I'm Caique Santos <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaiqueTodd&color=yellow" alt="Profile views" /> </p></h1>
 
 
 - 🎓 Cursando 3° Semestre de Ciência da Computação
