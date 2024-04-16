@@ -2,7 +2,7 @@
 <p><h1 align="left">Hi, I'm Caique Santos <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaiqueTodd&color=yellow" alt="Profile views" /> </p></h1>
 
 
-- 🎓 Cursando 3° Semestre de Ciência da Computação
+- 🎓 Cursando 5° Semestre de Ciência da Computação
 - 🎯 Atuando como Front-end Developer;
 
 
